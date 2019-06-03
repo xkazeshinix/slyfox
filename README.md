@@ -1,5 +1,5 @@
 # Slyfox
-Typ gry: Side scroller
+Typ gry: Side scroller\
 Fabuła: Bohaterem jest lisek, który chce złapać motyla.
 
 ## Target
